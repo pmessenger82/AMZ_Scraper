@@ -1,0 +1,27 @@
+{
+  "name": "api-scraper",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000M\u0000Z\u0000_\u0000S\u0000c\u0000r\u0000a\u0000p\u0000e\u0000r\u0000\r\u0000 \u0000#\u0000 \u0000A\u0000M\u0000Z\u0000_\u0000S\u0000c\u0000r\u0000a\u0000p\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Patrick Messenger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmessenger82/AMZ_Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pmessenger82/AMZ_Scraper/issues"
+  },
+  "homepage": "https://github.com/pmessenger82/AMZ_Scraper#readme"
+}
